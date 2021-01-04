@@ -1,6 +1,7 @@
-# startup_namer
+# Startup Namer
 
-A new Flutter project.
+- Uses the package `english_words` to get a list of ~5000 most used english words.
+- Implements routing in flutter.
 
 ## Getting Started
 
